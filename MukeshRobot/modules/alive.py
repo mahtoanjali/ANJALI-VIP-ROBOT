@@ -10,11 +10,11 @@ from telethon import __version__ as tver
 from MukeshRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID
 
 PHOTO = [
-    "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
-    "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
-    "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
-    "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
+    "https://telegra.ph/file/3134ed3b57eb051b8c363.jpg",
+    "https://telegra.ph/file/6ca0813b719b6ade1c250.jpg",
+    "https://telegra.ph/file/5a2cbb9deb62ba4b122e4.jpg",
+    "https://telegra.ph/file/cb09d52a9555883eb0f61.jpg",
+    "https://telegra.ph/file/c5952790fa8235f499749.jpg",
 ]
 
 Mukesh = [
@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+lol = "https://te.legra.ph/file/471ef129b9c1b479676fd.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -54,10 +54,10 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗔𝗡𝗝𝗔𝗟𝗜 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/THE_VIP_BOY)♨️
+   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𓆩 ᴍᴧʜᴛᴏ ✗ ᴧɴᴊᴀʟɪ 𓆪](https://t.me/QUEENx_GOD)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
@@ -68,4 +68,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆"""
+☆............𝙱𝚈 » [𓆩 ᴍᴧʜᴛᴏ ✗ ᴧɴᴊᴀʟɪ 𓆪](https://t.me/QUEENx_GOD)............☆"""
