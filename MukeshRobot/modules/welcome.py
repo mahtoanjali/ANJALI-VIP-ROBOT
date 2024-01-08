@@ -1111,7 +1111,7 @@ __help__ = """
 *ᴡᴇʟᴄᴏᴍᴇ ᴍᴀʀᴋᴅᴏᴡɴ:* 
  ❍ /welcomehelp *:* ᴠɪᴇᴡ ᴍᴏʀᴇ ғᴏʀᴍᴀᴛᴛɪɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ғᴏʀ ᴄᴜsᴛᴏᴍ ᴡᴇʟᴄᴏᴍᴇ/ɢᴏᴏᴅʙʏᴇ ᴍᴇssᴀɢᴇs.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [𓆩 ᴍᴧʜᴛᴏ ✗ ᴧɴᴊᴀʟɪ 𓆪](https://t.me/QUEENx_GOD)............☆
 """
 
 NEW_MEM_HANDLER = MessageHandler(Filters.status_update.new_chat_members, new_member)
