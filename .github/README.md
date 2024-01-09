@@ -2,12 +2,12 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**THE-VIP-BOY-OP/VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahtoanjali/ANJALI-VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/mahtoanjali/count.svg" />
 </p>
 
 
@@ -18,7 +18,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/cf7e7a00a1519d1b9c1a4.jpg">
+  <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝗔𝗡𝗝𝗔𝗟𝗜🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/QUEENx_GOD)
